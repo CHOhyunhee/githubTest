@@ -1,0 +1,6 @@
+OMM bxm.test.bat.batch.dbio.dto.DSmpEmpTst001selectLsit01InDto
+< logicalName= "임직원 정보" description=""
+>
+{
+	Integer feduDeptNo < length = 2 description = "FW샘플 부서번호" > ;
+}
