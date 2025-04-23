@@ -43,7 +43,7 @@ public class MSmpEmpInfMng {
 	public DSmpEmpTst000Dto getEmpInf(DSmpEmpTst000Dto input) throws DefaultApplicationException {
 
 		logger.debug("============== START ==============");
-		logger.debug("input = {}", input);
+		logger.debug("input2 = {}", input);
 
 		dSmpEmpTst000 = DefaultApplicationContext.getBean(dSmpEmpTst000, DSmpEmpTst000.class);
 
